@@ -1,0 +1,11 @@
+{
+	"dependencies": {
+		"voltengine/glad": "2.0.0-beta+vk12.core.loader.all-2021-11-12"
+	},
+	"description": "Easy to integrate Vulkan memory allocation library.",
+	"git": "https://github.com/voltengine/vulkan-memory-allocator.git",
+	"id": "voltengine/vulkan-memory-allocator",
+	"keywords": [],
+	"license": "MIT",
+	"version": "2.3.0+post-snapshot.c809ddca76f856674fc7922c608e31e9cc007709"
+}
