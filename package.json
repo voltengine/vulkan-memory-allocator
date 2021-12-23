@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"voltengine/glad": "2.0.0-beta+vk12.core.loader.all-2021-11-12"
+		"voltengine/glad": "2.0.0-beta+gl46-vk12-core.all-2021-12-23-no-vk-khr-synchronization2.loader"
 	},
 	"description": "Easy to integrate Vulkan memory allocation library.",
 	"git": "https://github.com/voltengine/vulkan-memory-allocator.git",
